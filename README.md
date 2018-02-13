@@ -15,4 +15,4 @@ creatine
 ## Questions
 
 ### How do I git gud
-check #Supplement-Stack
+check [Supplement Stack](#Supplement-Stack)
