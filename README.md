@@ -1,7 +1,7 @@
 # Fit Q&A
 Information dump
 
-##Table of contents
+## Table of contents
 * [Answers](#Answers)
 * [Questions](#Questions)
 
