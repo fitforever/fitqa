@@ -2,8 +2,8 @@
 Information dump
 
 ## Table of contents
-* [Answers](#Answers)
-* [Questions](#Questions)
+* [Answers](#answers)
+* [Questions](#questions)
 
 ## Answers
 
@@ -15,4 +15,4 @@ creatine
 ## Questions
 
 ### How do I git gud
-check [Supplement Stack](#Supplement-Stack)
+check [Supplement Stack](#supplement-stack)
