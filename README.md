@@ -3,7 +3,7 @@ Information dump
 
 ##Table of contents
 * [Answers](#Answers)
-* [Questions(#Questions)
+* [Questions](#Questions)
 
 ## Answers
 
